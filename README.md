@@ -14,7 +14,7 @@
 ## 🧙 Character sheet
 
 <div align="center">
-  <img src="./assets/skills.svg" alt="Character sheet: C Lv.7, Python Lv.6, Typst Lv.5, Git Lv.6, Coffee MAX" width="100%">
+  <img src="./assets/skills.svg" alt="Character sheet: Python Lv.9, C Lv.7, SQL Lv.6, Vue Lv.6, CSS Lv.6, Git Lv.6, Java Lv.5, Typst Lv.5, Coffee MAX" width="100%">
 </div>
 
 <br>
@@ -23,8 +23,12 @@
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=4479A1)
+![Vue](https://img.shields.io/badge/Vue-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css&logoColor=663399)
 ![Typst](https://img.shields.io/badge/Typst-0d1117?style=for-the-badge&logo=typst&logoColor=239DAD)
 ![Shell](https://img.shields.io/badge/Shell-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
@@ -49,15 +53,6 @@
 
 <br>
 
-## 📊 Battle log
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LiciaMor18&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e3b341&icon_color=3fb950" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiciaMor18&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e3b341" alt="Top languages">
-</div>
-
-<br>
-
 ## 🐍 The commit snake
 
 <div align="center">
@@ -79,7 +74,7 @@
         /                      /|
        /______________________/ |
        |                      | |
-       |  ◆   TREASURE   ◆   | |
+       |  ◆   TREASURE   ◆    | |
        |       ________       | |
        |      |  ____  |      | /
        |______|_|____|_|______|/
